@@ -1,0 +1,16 @@
+80:Progtest random test failed
+70:Segmentation fault
+40:Progtest homework #2
+80:Invalid input data
+50.5:Program has stopped working
+15:Validator result
+20:Lid is open
+60:Test in progress
+
+test
+test fail
+lid
+prog
+data
+ISO
+exception

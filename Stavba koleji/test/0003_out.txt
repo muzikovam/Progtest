@@ -1,0 +1,4 @@
+Delky koleji:
+Vzdalenost:
+= 10 * 0 + 13 * 0
+Celkem variant: 1

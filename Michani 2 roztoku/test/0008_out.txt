@@ -1,0 +1,4 @@
+Hmotnost a koncentrace #1:
+Hmotnost a koncentrace #2:
+Hmotnost a koncentrace vysledku:
+333.000000 x #1 + 288.000000 x #2

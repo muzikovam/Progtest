@@ -1,0 +1,21 @@
+Casto hledane fraze:
+Hledani:
+Nalezeno: 3
+> Progtest random test failed
+> Test in progress
+> Progtest homework #2
+Nalezeno: 1
+> Progtest random test failed
+Nalezeno: 3
+> Invalid input data
+> Lid is open
+> Validator result
+Nalezeno: 4
+> Progtest random test failed
+> Test in progress
+> Program has stopped working
+> Progtest homework #2
+Nalezeno: 1
+> Invalid input data
+Nalezeno: 0
+Nalezeno: 0
